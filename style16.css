@@ -1,0 +1,38 @@
+body {
+  width: 550px;
+  margin: 0;
+  padding: 0 10px;
+  font-family: "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+h1 {
+  font-size: 26px;
+}
+p {
+  background-color: #333333;
+  color: white;
+}
+a
+{
+  color: orange;
+}
+img
+{ border-radius: 10%;
+  vertical-align: top;
+  padding: 10 px;
+}
+.new {
+width: 120px;
+background-color:orange;}
+b {
+  border-radius: 10%;
+  border-right: 170px solid orange;
+  border-style: solid;
+  border-width: 5px;
+  border-top: 10px solid orange;
+  border-bottom: 160px solid orange;
+  border-left: 8px solid orange;
+
+  }
